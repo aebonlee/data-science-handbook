@@ -1,5 +1,8 @@
 # 처음 배우는 데이터과학
 
+
+https://github.com/keunwoochoi/data-science-handbook
+
 역자 최근우
 
 ## 기본 안내
